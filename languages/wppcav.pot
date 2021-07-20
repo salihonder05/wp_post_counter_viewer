@@ -1,0 +1,56 @@
+# WPPCAV Translate File
+# Copyright 2021 Salih ÖNDER
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPPCAV Translate File v1.0.0\n"
+"POT-Creation-Date: 2021-21-07 10:50+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Salih ÖNDER <mail@salihonder.com.tr>\n"
+"Language-Team: Salih ÖNDER <mail@salihonder.com.tr>\n"
+"Report-Msgid-Bugs-To: Salih ÖNDER <mail@salihonder.com.tr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yes"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: TURKEY\n"
+"X-Poedit-Bookmarks: WPPCAV\n"
+
+#. Description of the plugin
+msgid "Count, Save, Calculate and View Your Posts View Times In Anywhere"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://salihonder.com.tr/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://salihonder.com.tr/wordpress_post_counter_and_viewer/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Salih ÖNDER"
+msgstr ""
+
+#. Name of the plugin
+msgid "WP Post Counter And Viewer"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "Views"
+msgstr ""
+
+msgid "No View"
+msgstr ""
+
+msgid "Save"
+msgstr ""
